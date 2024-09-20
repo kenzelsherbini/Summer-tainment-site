@@ -1,0 +1,49 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+  body.home {
+    height: 100%;
+    width: 100%;
+    background-color: #8ecae6;
+    color: black;
+  }
+
+  .row{
+    background-color: lightcyan;
+    margin: 10%;
+    margin-top: 10%;
+    radius: 5%;
+  }
+
+  .img-fluid {
+    padding: 5%;
+    width: 80%;
+    border-radius: 10%;
+  }
+
+h3 {
+  margin-top: 10%;
+}
+
+p {
+  margin: 6%;
+}
+
+.list {
+  margin-left: 20%;
+}
+
+.timage1 {
+  margin: 5%;
+}
+
+.timage2{
+  margin: 5%;
+}
+
+.footer {
+  background-color: lightcyan;
+  color: rgb(28, 56, 94);
+}
