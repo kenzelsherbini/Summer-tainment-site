@@ -1,49 +1,87 @@
 html {
-    height: 100%;
-    width: 100%;
-  }
+  height: 100%;
+  width: 100%;
+}
 
-  body.home {
-    height: 100%;
-    width: 100%;
-    background-color: #8ecae6;
-    color: black;
-  }
+.navbar{
+  background-color: #7e9fce;
+}
 
-  .row{
-    background-color: lightcyan;
-    margin: 10%;
-    margin-top: 10%;
-    radius: 5%;
-  }
+.nav-link {
+  color:white;
+  font-family: "brevia", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
 
-  .img-fluid {
-    padding: 5%;
-    width: 80%;
-    border-radius: 10%;
-  }
+.navbar-brand {
+  color:white;
+  font-family: "brevia", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
 
-h3 {
-  margin-top: 10%;
+.pager {
+  color: white;
+  background-color: #dae3f1;
+}
+
+.row{
+  background-color: #b5c8e3;
+  margin: 10%;
+  margin-top: 5%;
+}
+
+.home-subtitle {
+  background-color: #b5c8e3;
+}
+
+a {
+  color:white;
+  font-family: "brevia", sans-serif;
+}
+
+.img-fluid {
+  padding: 5%;
+  width: 80%;
+  border-radius: 10%;
 }
 
 p {
-  margin: 6%;
+  font-family: "gelica", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "brevia", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "costa", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+margin: 6%;
 }
 
 .list {
-  margin-left: 20%;
+margin-left: 20%;
 }
 
 .timage1 {
-  margin: 5%;
+margin: 5%;
 }
 
 .timage2{
-  margin: 5%;
+margin: 5%;
 }
 
-.footer {
-  background-color: lightcyan;
-  color: rgb(28, 56, 94);
+.foot {
+background-color: #7e9fce;
+color: rgb(28, 56, 94);
 }
